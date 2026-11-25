@@ -1,5 +1,7 @@
 # 🏎️  F1 Insights: Real-Time Replay & Historical Analytics 🏁
 
+![Grafana F1 Real-Time Telemetry dashboard showing RPM, speed and DRS gauges, throttle/brake bars, gear, and speed/throttle/brake time series](assets/f1-telemetry-dashboard.gif)
+
 # 📖 Project Overview
 Click below image or this link for a video Overview 👇 ▶️ 
 
